@@ -1,0 +1,19 @@
+{
+  "name": "marketplace",
+  "version": "1.0.0",
+  "description": "Antique Marketplace",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harshavardhan Surve",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "hardhat": "^2.12.6"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.1",
+    "next.js": "^1.0.3"
+  }
+}
